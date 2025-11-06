@@ -1,4 +1,4 @@
-(i)An array:-is a data structure that stores a collection of elements of the same type in contiguous memory locations
+//(i)An array:-is a data structure that stores a collection of elements of the same type in contiguous memory locations
 
 
 
