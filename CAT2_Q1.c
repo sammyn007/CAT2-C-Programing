@@ -1,3 +1,7 @@
+(i)An array:-is a data structure that stores a collection of elements of the same type in contiguous memory locations
+
+
+
 /*
 Name:Sammy Njuguna 
 Reg.No.CT101/G/28858/25
